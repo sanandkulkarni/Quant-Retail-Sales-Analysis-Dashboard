@@ -25,3 +25,4 @@ Detect growth patterns and anomalies
 Evaluate regional and product-level performance
 Build forecasting and risk-oriented insights
 Present findings through an executive dashboard interface
+https://1drv.ms/u/c/af04fca2deb7bf89/IQBX39FQmFXES6ak7MqJx8LZAU3Fy6Z7MpRqY1Lou6GkNTc?e=bHFZaM
